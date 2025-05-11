@@ -31,3 +31,11 @@ If it’s already initialized, it may ask to pull first or force push.
 and ready to code and collaborate and track your code history
 
 
+
+
+// // // GitHub with VScode in offine mode is not possible and also offline real time syncing  
+
+// // //  The internet is required to push or send a pull request ...
+
+// // // But we can add and commit things in offine
+
