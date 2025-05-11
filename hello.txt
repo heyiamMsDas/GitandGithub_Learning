@@ -2,4 +2,3 @@ hey there i am learing git and github now .. I don't know what i'm typing ... ha
 
 git is a popular version control system and GitHub is a web-based platform for code hosting 
 version control using Git , and collaboration on software development projects 
- 
