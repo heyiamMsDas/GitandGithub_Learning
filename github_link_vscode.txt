@@ -1,0 +1,18 @@
+Here’s a step-by-step guide to create a repository, 
+link it to GitHub, and control it through VS Code:
+
+
+1. Open project folder in vs code . go to the terminal and initialise git with 
+
+git init 
+
+
+2. create a new repository in the github and  link it with vs code by typing in the vs code terminal 
+the following :
+
+git remote add origin https://github.com/your-username/your-repo-name.git
+
+
+and ready to code and collaborate and track your code history
+
+
