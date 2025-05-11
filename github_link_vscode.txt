@@ -12,6 +12,21 @@ the following :
 
 git remote add origin https://github.com/your-username/your-repo-name.git
 
+3.add and commit:
+
+git add .
+
+git commit -m "Hello this has been commited" 
+
+4.
+
+git branch -M main 
+git push -u origin main
+
+If it’s already initialized, it may ask to pull first or force push.
+
+
+
 
 and ready to code and collaborate and track your code history
 
