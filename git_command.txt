@@ -1,0 +1,6 @@
+1.to know history : 
+
+git log
+
+
+
