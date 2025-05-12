@@ -5,3 +5,12 @@ git log
 Note : to exit from the log enter 'q' in the terminal
 
 
+2. Recommendation to write commit messages : 
+
+use present tence and imperative sentence 
+like make this to do something
+
+But Can use past tence 
+look the guideline that is provided by the open source projects or the company 
+
+
