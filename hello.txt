@@ -2,3 +2,17 @@ hey there i am learing git and github now .. I don't know what i'm typing ... ha
 
 git is a popular version control system and GitHub is a web-based platform for code hosting 
 version control using Git , and collaboration on software development projects 
+
+Git Ignore :
+
+We can tell git which files and directories to ignore in a given repo using .gitignore file 
+This is useful for the files that you know you never want to commit .
+This includes : 
+Secret keys , API keys , credentials 
+operating system files 
+log files 
+dependencies and pakages 
+// 
+
+
+
