@@ -2,5 +2,6 @@
 
 git log
 
+Note : to exit from the log enter 'q' in the terminal
 
 
