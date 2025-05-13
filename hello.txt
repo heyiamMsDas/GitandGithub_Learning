@@ -14,5 +14,23 @@ log files
 dependencies and pakages 
 // 
 
+Branching in Git : 
+Commands are given below :
+
+1.git branch : Lists all your local branches . 
+The currently active branch is marked with an asterisk(*).
+
+2.git branch <branch_name> : creates a new branch . Git will prevent you from deleting 
+a branch that hasn't been fully merged .
+
+3.git branch -d : Deletes a branch , even if it hasn't been fully merged. 
+
+4. git checkout <branch_name> : switches your working directories to the specified 
+branch. Your files will change to reflect the state of that branch .
+
+5.git checkout -b <new_branch_name> : creates a new branch and immediately switches to it . This is 
+a handy shortcut. 
+
+
 
 
