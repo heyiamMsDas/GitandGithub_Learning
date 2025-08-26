@@ -14,3 +14,15 @@ But Can use past tence
 look the guideline that is provided by the open source projects or the company 
 
 
+Delete File or Folder : 
+1. file 
+git rm -rf file1.cpp file2.cpp   # remove from staging
+git commit -m "Delete unwanted files"
+git push origin main
+
+2.Folder 
+git rm -rf foldername
+git commit -m "Delete folder foldername"
+git push origin main
+
+
